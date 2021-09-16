@@ -1,0 +1,81 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Airat/Desktop/I2C_interface
+vI2C_tb
+Z1 !s110 1618148965
+!i10b 1
+!s100 H1UgdR=Qe=ldhXMco`Gz62
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQG@aMRY5gC>F>]^>aCkTE3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1618073454
+8C:/Users/Airat/Desktop/I2C_interface/I2C_tb.v
+FC:/Users/Airat/Desktop/I2C_interface/I2C_tb.v
+!i122 81
+L0 3 28
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1618148965.000000
+!s107 C:/Users/Airat/Desktop/I2C_interface/I2C_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Airat/Desktop/I2C_interface/I2C_tb.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@i2@c_tb
+vmaster_device
+R1
+!i10b 1
+!s100 Q^mOVMMICZ4Z<Z;TUQ9l^2
+R2
+Ia9cU@AC6NY^a:Ili[B[oE1
+R3
+R0
+w1618148955
+8C:/Users/Airat/Desktop/I2C_interface/master_device.v
+FC:/Users/Airat/Desktop/I2C_interface/master_device.v
+!i122 82
+L0 1 169
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Airat/Desktop/I2C_interface/master_device.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Airat/Desktop/I2C_interface/master_device.v|
+!i113 1
+R6
+R7
+vslave_device
+R1
+!i10b 1
+!s100 6`No>RA`O]_LJ>=a`mobn1
+R2
+I2ce6ZH^4S7WTW3XTW;1Og1
+R3
+R0
+w1618147394
+8C:/Users/Airat/Desktop/I2C_interface/slave_device.v
+FC:/Users/Airat/Desktop/I2C_interface/slave_device.v
+!i122 83
+L0 1 126
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Airat/Desktop/I2C_interface/slave_device.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Airat/Desktop/I2C_interface/slave_device.v|
+!i113 1
+R6
+R7
